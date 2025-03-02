@@ -1,5 +1,6 @@
 Sesli ve görüntülü arama 
+Emoji gönderme
 Durum paylaşma
 Grup sohbeti
 Mesajlaşma
-Emoji gönderme
+
